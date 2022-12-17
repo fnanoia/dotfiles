@@ -5,7 +5,7 @@ Setup for production environment
 
 Feel free to use it
 
-Currently on ![linux-shield]
+![linux-shield]
 
 
 #### Packages
